@@ -4,4 +4,5 @@ if TRUE
 else
   puts "Odds!"
 end
+current_time = Time.now
 
